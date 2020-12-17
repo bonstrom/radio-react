@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_RadioReact.-1577306412.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="RadioReact" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="ClientApp" t="Include">
+          <e p=".gitignore" t="Include" />
+          <e p="README.md" t="Include" />
+          <e p="build" t="Include">
+            <e p="favicon.ico" t="Include" />
+            <e p="index.html" t="Include" />
+            <e p="precache-manifest.d4dee5c959ecf25e823b540725482e8a.js" t="Include" />
+            <e p="service-worker.js" t="Include" />
+            <e p="static" t="Include">
+              <e p="css" t="Include">
+                <e p="2.74189dbb.chunk.css" t="Include" />
+                <e p="2.74189dbb.chunk.css.map" t="Include" />
+                <e p="main.553fc9a1.chunk.css" t="Include" />
+                <e p="main.553fc9a1.chunk.css.map" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="2.199b24f1.chunk.js" t="Include" />
+                <e p="2.199b24f1.chunk.js.LICENSE.txt" t="Include" />
+                <e p="2.199b24f1.chunk.js.map" t="Include" />
+                <e p="main.eca5feca.chunk.js" t="Include" />
+                <e p="main.eca5feca.chunk.js.map" t="Include" />
+                <e p="runtime-main.4fff9b91.js" t="Include" />
+                <e p="runtime-main.4fff9b91.js.map" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="node_modules/@babel/parser" t="IncludeRecursive" />
+          <e p="node_modules/@babel/types" t="IncludeRecursive" />
+          <e p="node_modules/@emotion/hash" t="IncludeRecursive" />
+          <e p="node_modules/@jest/console" t="IncludeRecursive" />
+          <e p="node_modules/@jest/environment" t="IncludeRecursive" />
+          <e p="node_modules/@jest/fake-timers" t="IncludeRecursive" />
+          <e p="node_modules/@jest/source-map" t="IncludeRecursive" />
+          <e p="node_modules/@jest/test-result" t="IncludeRecursive" />
+          <e p="node_modules/@jest/transform" t="IncludeRecursive" />
+          <e p="node_modules/@jest/types" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/core" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/icons" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/styles" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/system" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/types" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/utils" t="IncludeRecursive" />
+          <e p="node_modules/@types" t="IncludeRecursive">
+            <e p="babel__generator" t="IncludeRecursive" />
+            <e p="babel__template" t="IncludeRecursive" />
+            <e p="babel__traverse" t="IncludeRecursive" />
+            <e p="events" t="IncludeRecursive" />
+            <e p="istanbul-lib-coverage" t="IncludeRecursive" />
+            <e p="istanbul-lib-report" t="IncludeRecursive" />
+            <e p="minimatch" t="IncludeRecursive" />
+            <e p="node" t="IncludeRecursive" />
+            <e p="prop-types" t="IncludeRecursive" />
+            <e p="react" t="IncludeRecursive" />
+            <e p="yargs-parser" t="IncludeRecursive" />
+          </e>
+          <e p="node_modules/@typescript-eslint/experimental-utils" t="IncludeRecursive" />
+          <e p="node_modules/@typescript-eslint/parser" t="IncludeRecursive" />
+          <e p="node_modules/@typescript-eslint/typescript-estree" t="IncludeRecursive" />
+          <e p="node_modules/ajv" t="IncludeRecursive" />
+          <e p="node_modules/axios" t="IncludeRecursive" />
+          <e p="node_modules/bootstrap" t="IncludeRecursive" />
+          <e p="node_modules/camelcase" t="IncludeRecursive" />
+          <e p="node_modules/chalk" t="IncludeRecursive" />
+          <e p="node_modules/clsx" t="IncludeRecursive" />
+          <e p="node_modules/country-code-lookup" t="IncludeRecursive" />
+          <e p="node_modules/cross-env" t="IncludeRecursive" />
+          <e p="node_modules/csstype" t="IncludeRecursive" />
+          <e p="node_modules/eslint" t="IncludeRecursive" />
+          <e p="node_modules/eslint-config-react-app" t="IncludeRecursive" />
+          <e p="node_modules/eslint-plugin-flowtype" t="IncludeRecursive" />
+          <e p="node_modules/eslint-plugin-import" t="IncludeRecursive" />
+          <e p="node_modules/eslint-plugin-jsx-a11y" t="IncludeRecursive" />
+          <e p="node_modules/eslint-plugin-react" t="IncludeRecursive" />
+          <e p="node_modules/fast-deep-equal" t="IncludeRecursive" />
+          <e p="node_modules/fast-json-stable-stringify" t="IncludeRecursive" />
+          <e p="node_modules/indefinite-observable" t="IncludeRecursive" />
+          <e p="node_modules/is-docker" t="IncludeRecursive" />
+          <e p="node_modules/is-in-browser" t="IncludeRecursive" />
+          <e p="node_modules/jest" t="IncludeRecursive" />
+          <e p="node_modules/jest-environment-jsdom-fourteen" t="IncludeRecursive" />
+          <e p="node_modules/jest-haste-map" t="IncludeRecursive" />
+          <e p="node_modules/jest-message-util" t="IncludeRecursive" />
+          <e p="node_modules/jest-mock" t="IncludeRecursive" />
+          <e p="node_modules/jest-pnp-resolver" t="IncludeRecursive" />
+          <e p="node_modules/jest-regex-util" t="IncludeRecursive" />
+          <e p="node_modules/jest-resolve" t="IncludeRecursive" />
+          <e p="node_modules/jest-serializer" t="IncludeRecursive" />
+          <e p="node_modules/jest-util" t="IncludeRecursive" />
+          <e p="node_modules/jest-worker" t="IncludeRecursive" />
+          <e p="node_modules/jquery" t="IncludeRecursive" />
+          <e p="node_modules/jss" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-camel-case" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-default-unit" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-global" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-nested" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-props-sort" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-rule-value-function" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-vendor-prefixer" t="IncludeRecursive" />
+          <e p="node_modules/merge" t="IncludeRecursive" />
+          <e p="node_modules/nan" t="IncludeRecursive" />
+          <e p="node_modules/oidc-client" t="IncludeRecursive" />
+          <e p="node_modules/open" t="IncludeRecursive" />
+          <e p="node_modules/pirates" t="IncludeRecursive" />
+          <e p="node_modules/popper.js" t="IncludeRecursive" />
+          <e p="node_modules/react" t="IncludeRecursive" />
+          <e p="node_modules/react-dom" t="IncludeRecursive" />
+          <e p="node_modules/react-router-bootstrap" t="IncludeRecursive" />
+          <e p="node_modules/react-router-dom" t="IncludeRecursive" />
+          <e p="node_modules/react-scripts" t="IncludeRecursive" />
+          <e p="node_modules/reactstrap" t="IncludeRecursive" />
+          <e p="node_modules/rimraf" t="IncludeRecursive" />
+          <e p="node_modules/symbol-observable" t="IncludeRecursive" />
+          <e p="node_modules/tiny-warning" t="IncludeRecursive" />
+          <e p="node_modules/ts-pnp" t="IncludeRecursive" />
+          <e p="node_modules/tslib" t="IncludeRecursive" />
+          <e p="node_modules/tsutils" t="IncludeRecursive" />
+          <e p="node_modules/uri-js" t="IncludeRecursive" />
+          <e p="package-lock.json" t="Include" />
+          <e p="package.json" t="Include" />
+          <e p="public" t="Include">
+            <e p="favicon.ico" t="Include" />
+            <e p="index.html" t="Include" />
+            <e p="manifest.json" t="Include" />
+          </e>
+          <e p="src" t="Include">
+            <e p="App.js" t="Include" />
+            <e p="App.test.js" t="Include" />
+            <e p="components" t="Include">
+              <e p="Emoji.js" t="Include" />
+              <e p="GetFlags.js" t="Include" />
+              <e p="Home.js" t="Include" />
+              <e p="Layout.js" t="Include" />
+              <e p="NavMenu.css" t="Include" />
+              <e p="NavMenu.js" t="Include" />
+              <e p="RadioStationsList.js" t="Include" />
+            </e>
+            <e p="custom.css" t="Include" />
+            <e p="index.js" t="Include" />
+            <e p="registerServiceWorker.js" t="Include" />
+          </e>
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="FavouritesController.cs" t="Include" />
+          <e p="RadioController.cs" t="Include" />
+        </e>
+        <e p="Pages" t="Include">
+          <e p="Error.cshtml" t="Include" />
+          <e p="Error.cshtml.cs" t="Include" />
+          <e p="_ViewImports.cshtml" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="RadioReact.csproj" t="IncludeRecursive" />
+        <e p="RadioStation.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="favourite-radio-stations.json" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="RadioReact.AssemblyInfo.cs" t="Include" />
+              <e p="RadioReact.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="radio-stations" t="Include">
+          <e p="sweden.json" t="Include" />
+        </e>
+      </e>
+      <e p="RadioReact.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

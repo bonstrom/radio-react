@@ -1,0 +1,347 @@
+[
+  {
+    "Id": "bandit-alternative",
+    "Name": "Bandit Alternative",
+    "Url": "http://wr05-ice.stream.khz.se/wr05_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Rock"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "bandit-ballads",
+    "Name": "Bandit Ballads",
+    "Url": "http://wr21-ice.stream.khz.se/wr21_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Ballad"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "bandit-classic-rock",
+    "Name": "Bandit Classic Rock",
+    "Url": "http://wr11-ice.stream.khz.se/wr11_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Rock"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "bandit-metal",
+    "Name": "Bandit Metal",
+    "Url": "http://wr03-ice.stream.khz.se/wr03_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Metal"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "bandit-rock",
+    "Name": "Bandit Rock",
+    "Url": "http://fm02-ice.stream.khz.se/fm02_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Rock"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "country-classics",
+    "Name": "Country Classics",
+    "Url": "http://wr14-ice.stream.khz.se/wr14_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Country"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "dansbandsfavoriter",
+    "Name": "Dansbandsfavoriter",
+    "Url": "http://wr15-ice.stream.khz.se/wr15_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Dansband"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "electro-lounge",
+    "Name": "Electro Lounge",
+    "Url": "http://wr16-ice.stream.khz.se/wr16_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Electro"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "gamla-favoriter",
+    "Name": "Gamla Favoriter",
+    "Url": "http://wr09-ice.stream.khz.se/wr09_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Dansband"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "lugna-favoriter",
+    "Name": "Lugna Favoriter",
+    "Url": "http://fm03-ice.stream.khz.se/fm03_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Svenskt",
+      "Ballad"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "one-hit-wonders",
+    "Name": "One Hit Wonders",
+    "Url": "http://wr18-ice.stream.khz.se/wr18_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "pirate-rock",
+    "Name": "Pirate Rock",
+    "Url": "https://stream.piraterock.se:8101/webradio",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Rock"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "power-club",
+    "Name": "Power Club",
+    "Url": "http://wr06-ice.stream.khz.se/wr06_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Dance"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "power-hit-radio",
+    "Name": "Power Hit Radio",
+    "Url": "http://fm04-ice.stream.khz.se/fm04_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "power-millennium",
+    "Name": "Power Millennium",
+    "Url": "http://wr19-ice.stream.khz.se/wr19_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Dance",
+      "Pop"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "power-street",
+    "Name": "Power Street",
+    "Url": "http://wr07-ice.stream.khz.se/wr07_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "rixfm-fresh",
+    "Name": "RIXFM Fresh",
+    "Url": "http://wr04-ice.stream.khz.se/wr04_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "rixfm",
+    "Name": "RIX FM",
+    "Url": "http://fm01-ice.stream.khz.se/fm01_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "radio-rainbow",
+    "Name": "Radio Rainbow",
+    "Url": "http://wr20-ice.stream.khz.se/wr20_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "starfm",
+    "Name": "STAR FM",
+    "Url": "http://fm05-ice.stream.khz.se/fm05_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Pop",
+      "70's",
+      "80's",
+      "90's"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "skargardsradion",
+    "Name": "Skärgårdsradion",
+    "Url": "http://fm06-ice.stream.khz.se/fm06_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Svenskt",
+      "Pop"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "soul-classics",
+    "Name": "Soul Classics",
+    "Url": "http://wr08-ice.stream.khz.se/wr08_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Soul"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "star-70s",
+    "Name": "Star 70's",
+    "Url": "http://wr10-ice.stream.khz.se/wr10_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "70's"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "star-80s",
+    "Name": "Star 80's",
+    "Url": "http://wr02-ice.stream.khz.se/wr02_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "80's"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "star-90s",
+    "Name": "Star 90's",
+    "Url": "http://wr12-ice.stream.khz.se/wr12_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "90's"
+    ],
+    "Description": ""
+  },
+  {
+    "Id": "svenska-favoriter",
+    "Name": "Svenska Favoriter",
+    "Url": "http://wr13-ice.stream.khz.se/wr13_mp3",
+    "CountryCode": "SE",
+    "Languages": [
+      "Swedish"
+    ],
+    "Genres": [
+      "Svenskt",
+      "Pop"
+    ],
+    "Description": ""
+  }
+]

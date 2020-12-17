@@ -1,0 +1,10 @@
+Index: RadioReact/favourite-radio-stations.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- RadioReact/favourite-radio-stations.json	(date 1607728069963)
++++ RadioReact/favourite-radio-stations.json	(date 1607728069963)
+@@ -0,0 +1,1 @@
++["bandit-alternative","bandit-ballads"]
+\ No newline at end of file
